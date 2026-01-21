@@ -1,4 +1,4 @@
-# Write your  MySQL query statement below
+# Write your  MySQL query  statement below
 SELECT 
     customer_id,
     COUNT(order_id) AS total_orders,
